@@ -2,7 +2,7 @@ from construct import Bytes, Int8ul, Int64ul, BytesInteger
 from construct import Struct as cStruct 
 
 POOL_INFO_LAYOUT = cStruct(
-    "instruction" / Int8ul,
+    "instruction" / Int8ul, 
     "simulate_type" / Int8ul
 )
 
