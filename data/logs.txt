@@ -1,0 +1,112 @@
+02-Feb-24 12:27:57 PM|root|ERROR|An unhandled exception occurred: type object 'datetime.datetime' has no attribute 'datetime' 
+NoneType: None
+02-Feb-24 12:33:33 PM|root|ERROR|An unhandled exception occurred: type object 'datetime.datetime' has no attribute 'datetime' 
+NoneType: None
+02-Feb-24 12:36:45 PM|root|ERROR|An unhandled exception occurred: type object 'datetime.datetime' has no attribute 'datetime' 
+NoneType: None 
+02-Feb-24 12:40:46 PM|root|ERROR|An unhandled exception occurred: type object 'datetime.datetime' has no attribute 'datetime'
+NoneType: None
+02-Feb-24 12:44:00 PM|root|ERROR|An unhandled exception occurred:   
+NoneType: None
+02-Feb-24 12:44:00 PM|asyncio|ERROR|Task was destroyed but it is pending!
+task: <Task cancelling name='Task-1' coro=<main() done, defined at /Users/nano_01/Documents/Python/solana-sniper/main.py:146> wait_for=<Future pending cb=[shield.<locals>._outer_done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:908, Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:764]>
+02-Feb-24 12:44:00 PM|asyncio|ERROR|Task was destroyed but it is pending!
+task: <Task cancelling name='Task-4' coro=<WebSocketCommonProtocol.close_connection() running at /Users/nano_01/Documents/Python/solana-sniper/venv/lib/python3.11/site-packages/websockets/legacy/protocol.py:1312> wait_for=<Future pending cb=[shield.<locals>._outer_done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:908, Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:764, shield.<locals>._inner_done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:891]>
+02-Feb-24 12:44:09 PM|root|ERROR|An unhandled exception occurred: 
+NoneType: None
+02-Feb-24 12:44:09 PM|asyncio|ERROR|Task was destroyed but it is pending!
+task: <Task cancelling name='Task-1' coro=<main() done, defined at /Users/nano_01/Documents/Python/solana-sniper/main.py:146> wait_for=<Future pending cb=[shield.<locals>._outer_done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:908, Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:764]>
+02-Feb-24 12:44:09 PM|asyncio|ERROR|Task was destroyed but it is pending!
+task: <Task cancelling name='Task-4' coro=<WebSocketCommonProtocol.close_connection() running at /Users/nano_01/Documents/Python/solana-sniper/venv/lib/python3.11/site-packages/websockets/legacy/protocol.py:1312> wait_for=<Future pending cb=[shield.<locals>._outer_done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:908, Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:764, shield.<locals>._inner_done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:891]>
+02-Feb-24 12:53:46 PM|root|ERROR|An unhandled exception occurred: 
+NoneType: None
+02-Feb-24 01:18:33 PM|root|ERROR|An unhandled exception occurred: 
+NoneType: None
+02-Feb-24 01:21:21 PM|root|ERROR|An unhandled exception occurred: 
+NoneType: None
+02-Feb-24 01:27:29 PM|root|ERROR|An unhandled exception occurred: 
+NoneType: None
+02-Feb-24 01:27:29 PM|asyncio|ERROR|Task was destroyed but it is pending!
+task: <Task cancelling name='Task-1' coro=<main() done, defined at /Users/nano_01/Documents/Python/solana-sniper/main.py:147> wait_for=<Future pending cb=[shield.<locals>._outer_done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:908, Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:764]>
+02-Feb-24 01:27:29 PM|asyncio|ERROR|Task was destroyed but it is pending!
+task: <Task cancelling name='Task-4' coro=<WebSocketCommonProtocol.close_connection() running at /Users/nano_01/Documents/Python/solana-sniper/venv/lib/python3.11/site-packages/websockets/legacy/protocol.py:1312> wait_for=<Future pending cb=[shield.<locals>._outer_done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:908, Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:764, shield.<locals>._inner_done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:891]>
+02-Feb-24 01:57:47 PM|root|ERROR|An unhandled exception occurred: 
+NoneType: None
+02-Feb-24 01:57:47 PM|asyncio|ERROR|Task was destroyed but it is pending!
+task: <Task cancelling name='Task-1' coro=<main() done, defined at /Users/nano_01/Documents/Python/solana-sniper/main.py:151> wait_for=<Future pending cb=[shield.<locals>._outer_done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:908, Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:764]>
+02-Feb-24 01:57:47 PM|asyncio|ERROR|Task was destroyed but it is pending!
+task: <Task cancelling name='Task-4' coro=<WebSocketCommonProtocol.close_connection() running at /Users/nano_01/Documents/Python/solana-sniper/venv/lib/python3.11/site-packages/websockets/legacy/protocol.py:1312> wait_for=<Future pending cb=[shield.<locals>._outer_done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:908, Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:764, shield.<locals>._inner_done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:891]>
+02-Feb-24 01:59:54 PM|root|ERROR|An unhandled exception occurred: 
+NoneType: None
+02-Feb-24 02:12:42 PM|root|ERROR|An unhandled exception occurred: sent 1011 (unexpected error) keepalive ping timeout; no close frame received
+NoneType: None
+02-Feb-24 02:17:00 PM|root|ERROR|An unhandled exception occurred: sent 1011 (unexpected error) keepalive ping timeout; no close frame received
+NoneType: None
+02-Feb-24 02:18:22 PM|root|ERROR|An unhandled exception occurred: sent 1011 (unexpected error) keepalive ping timeout; no close frame received
+NoneType: None
+02-Feb-24 02:19:51 PM|root|ERROR|An unhandled exception occurred: 
+NoneType: None
+02-Feb-24 02:21:13 PM|root|ERROR|An unhandled exception occurred: sent 1011 (unexpected error) keepalive ping timeout; no close frame received
+NoneType: None
+02-Feb-24 02:23:48 PM|root|ERROR|An unhandled exception occurred: 
+NoneType: None
+02-Feb-24 02:23:48 PM|asyncio|ERROR|Task was destroyed but it is pending!
+task: <Task cancelling name='Task-1' coro=<main() done, defined at /Users/nano_01/Documents/Python/solana-sniper/main.py:151> wait_for=<Future pending cb=[shield.<locals>._outer_done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:908, Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:764]>
+02-Feb-24 02:23:48 PM|asyncio|ERROR|Task was destroyed but it is pending!
+task: <Task cancelling name='Task-4' coro=<WebSocketCommonProtocol.close_connection() running at /Users/nano_01/Documents/Python/solana-sniper/venv/lib/python3.11/site-packages/websockets/legacy/protocol.py:1312> wait_for=<Future pending cb=[shield.<locals>._outer_done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:908, Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:764, shield.<locals>._inner_done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:891]>
+02-Feb-24 02:39:49 PM|root|ERROR|An unhandled exception occurred: 
+NoneType: None
+02-Feb-24 02:41:36 PM|root|ERROR|An unhandled exception occurred: 
+NoneType: None
+02-Feb-24 02:42:01 PM|root|ERROR|An unhandled exception occurred: 
+NoneType: None
+02-Feb-24 02:44:26 PM|root|ERROR|An unhandled exception occurred: sent 1011 (unexpected error) keepalive ping timeout; no close frame received
+NoneType: None
+02-Feb-24 02:45:11 PM|root|ERROR|An unhandled exception occurred: 
+NoneType: None
+02-Feb-24 02:51:33 PM|root|ERROR|An unhandled exception occurred: 
+NoneType: None
+02-Feb-24 02:51:34 PM|asyncio|ERROR|Task was destroyed but it is pending!
+task: <Task cancelling name='Task-1' coro=<main() done, defined at /Users/nano_01/Documents/Python/solana-sniper/main.py:153> wait_for=<Future pending cb=[shield.<locals>._outer_done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:908, Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:764]>
+02-Feb-24 02:51:34 PM|asyncio|ERROR|Task was destroyed but it is pending!
+task: <Task cancelling name='Task-4' coro=<WebSocketCommonProtocol.close_connection() running at /Users/nano_01/Documents/Python/solana-sniper/venv/lib/python3.11/site-packages/websockets/legacy/protocol.py:1312> wait_for=<Future pending cb=[shield.<locals>._outer_done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:908, Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:764, shield.<locals>._inner_done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:891]>
+02-Feb-24 02:53:28 PM|root|ERROR|An unhandled exception occurred: sent 1011 (unexpected error) keepalive ping timeout; no close frame received
+NoneType: None
+02-Feb-24 02:55:28 PM|root|ERROR|An unhandled exception occurred: 
+NoneType: None
+02-Feb-24 03:10:02 PM|root|ERROR|An unhandled exception occurred: 
+NoneType: None
+02-Feb-24 03:33:40 PM|root|ERROR|An unhandled exception occurred: 
+NoneType: None
+02-Feb-24 03:54:09 PM|root|ERROR|An unhandled exception occurred: 
+NoneType: None
+02-Feb-24 03:58:08 PM|root|ERROR|An unhandled exception occurred: sent 1011 (unexpected error) keepalive ping timeout; no close frame received
+NoneType: None
+02-Feb-24 04:24:18 PM|root|ERROR|An unhandled exception occurred: 
+NoneType: None
+02-Feb-24 04:24:41 PM|root|ERROR|An unhandled exception occurred: 
+NoneType: None
+02-Feb-24 04:29:22 PM|root|ERROR|An unhandled exception occurred: 
+NoneType: None
+02-Feb-24 04:36:36 PM|root|ERROR|An unhandled exception occurred: 
+NoneType: None
+02-Feb-24 04:37:42 PM|root|ERROR|An unhandled exception occurred: 
+NoneType: None
+02-Feb-24 04:38:03 PM|root|ERROR|An unhandled exception occurred: 
+NoneType: None
+02-Feb-24 04:38:22 PM|root|ERROR|An unhandled exception occurred: 
+NoneType: None
+02-Feb-24 04:39:36 PM|root|ERROR|An unhandled exception occurred: sent 1011 (unexpected error) keepalive ping timeout; no close frame received
+NoneType: None
+02-Feb-24 04:44:06 PM|root|ERROR|An unhandled exception occurred: sent 1011 (unexpected error) keepalive ping timeout; no close frame received
+NoneType: None
+02-Feb-24 04:53:41 PM|root|ERROR|An unhandled exception occurred: sent 1011 (unexpected error) keepalive ping timeout; no close frame received
+NoneType: None
+02-Feb-24 05:00:31 PM|root|ERROR|An unhandled exception occurred: 
+NoneType: None
+02-Feb-24 05:00:31 PM|asyncio|ERROR|Task was destroyed but it is pending!
+task: <Task cancelling name='Task-1' coro=<main() done, defined at /Users/nano_01/Documents/Python/solana-sniper/main.py:153> wait_for=<Future pending cb=[shield.<locals>._outer_done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:908, Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:764]>
+02-Feb-24 05:00:31 PM|asyncio|ERROR|Task was destroyed but it is pending!
+task: <Task cancelling name='Task-4' coro=<WebSocketCommonProtocol.close_connection() running at /Users/nano_01/Documents/Python/solana-sniper/venv/lib/python3.11/site-packages/websockets/legacy/protocol.py:1312> wait_for=<Future pending cb=[shield.<locals>._outer_done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:908, Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:764, shield.<locals>._inner_done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:891]>
+02-Feb-24 05:05:41 PM|root|ERROR|An unhandled exception occurred: no close frame received or sent
+NoneType: None
