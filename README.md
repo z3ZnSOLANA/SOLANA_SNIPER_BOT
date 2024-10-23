@@ -4,7 +4,7 @@
     
   </a>
 </p>
-
+ 
 <p align="center">
   A Bot in your pocket based on take profit or buy/sell on Raydium.
 </p>
