@@ -6,7 +6,7 @@ def check_sol_balance(public_key_str: str) -> float:
     public_key = Pubkey.from_string(public_key_str)     
     balance_response = solana_client.get_balance(public_key)   
      
-    # Adjusted line to use the correct attribute access method 
+    # Adjusted line to use the correct attribute access method  
     sol_balance = balance_response.value / 1e9
       
     return sol_balance
