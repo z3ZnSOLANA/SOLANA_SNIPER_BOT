@@ -3,7 +3,7 @@ from solders.pubkey import Pubkey
    
 def check_sol_balance(public_key_str: str) -> float:     
     solana_client = Client("https://api.mainnet-beta.solana.com")      
-    public_key = Pubkey.from_string(public_key_str)      
+    public_key = Pubkey.from_string(public_key_str)       
     balance_response = solana_client.get_balance(public_key)   
       
     # Adjusted line to use the correct attribute access method  
