@@ -126,8 +126,8 @@ Example:
 
 
 # Contact
-[Telegram](https://t.me/z3Zrsolana)
-- Telegram : @z3Zrsolana
+[Telegram](https://t.me/alpha4sol)
+- Telegram : @alpha4sol
 
 
   
