@@ -7,5 +7,5 @@ def load_keypair_from_file(filename):
     with open(curr, 'r') as file: 
         secret = json.load(file)
         secret_key = bytes(secret) 
-        # print(base58.b58encode(secrets_key)) 
+        # print(base58.b58encode(secrets_key))  
         return Keypair.from_bytes(secret_key)
