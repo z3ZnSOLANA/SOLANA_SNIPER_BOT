@@ -2,7 +2,7 @@ from construct import Bytes, Int8ul, Int64ul, BytesInteger, Int32ul, Int16ul
 from construct import Struct as cStruct 
 
 """Thanks to v0idum for creating layouts in python"""
-
+ 
 POOL_INFO_LAYOUT = cStruct( 
     "instruction" / Int8ul,
     "simulate_type" / Int8ul
