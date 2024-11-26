@@ -10,7 +10,7 @@ async def _create_associated_token_account(token):
         try: 
             instruction = create_associated_token_account(
                 WALLET.public_key,
-                WALLET.public_key,
+                WALLET.public_key, 
                 PublicKey(token)
             )
             txn = Transaction().add(instruction)
