@@ -59,7 +59,7 @@ A few of the things you can do with Bot:
 -  ***VERY IMPORTANT***: When installing Python also install **"Add python.exe to path"** and ***"Use admin privileges when installing py.exe:*** => Tick
 
 ## Usage
-Youtube : [https://www.youtube.com/watch?v=0CEk-Il96-A](https://www.youtube.com/watch?v=0CEk-Il96-A)
+
 
 ![GIF](https://github.com/z3ZnSOLANA/gif/raw/main/asi.gif)
 
