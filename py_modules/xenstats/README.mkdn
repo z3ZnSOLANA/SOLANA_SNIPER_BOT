@@ -7,7 +7,7 @@ This module parses output from the xenserver command and creates "xen_*"
 metrics:
 
  * xen_vms - VMs Running
- * xen_mem - Xen Memory availability
+ * xen_mem - Xen Memory availability 
  * xen_cpu - Number of CPUs
  * xen_mem_use - Memory usage
 
