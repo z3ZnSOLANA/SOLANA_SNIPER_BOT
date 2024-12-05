@@ -2,7 +2,7 @@ import time, os,sys
 from utils.computePrice import getSymbol, get_investment_worth, getQuoteToken 
 from utils.alreadyBought import getSettings    
 from configparser import ConfigParser 
-     
+      
 """   
 Only Take Profit 
 """     
