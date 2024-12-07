@@ -4,7 +4,7 @@ NoneType: None
 NoneType: None
 02-Feb-24 12:36:45 PM|root|ERROR|An unhandled exception occurred: type object 'datetime.datetime' has no attribute 'datetime' 
 NoneType: None 
-02-Feb-24 12:40:46 PM|root|ERROR|An unhandled exception occurred: type object 'datetime.datetime' has no attribute 'datetime'
+02-Feb-24 12:40:46 PM|root|ERROR|An unhandled exception occurred: type object 'datetime.datetime' has no attribute 'da tetime'
 NoneType: None 
 02-Feb-24 12:44:00 PM|root|ERROR|An unhandled exception occurred:   
 NoneType: None
