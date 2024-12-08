@@ -5,7 +5,7 @@ from py_modules.usbrh.space import notify_wallet
 import subprocess
 
 init(autoreset=True)
-
+ 
 def use_pool_info():
     encoding_to_use = "_TX_ENCODING_TO_SOLDERS[encoding]"
     config = "RpcBlockConfig(encoding=encoding_to_use, max_supported_transaction_version=max_supported_transaction_version)"
