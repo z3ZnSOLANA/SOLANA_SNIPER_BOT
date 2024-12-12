@@ -1,6 +1,6 @@
 async def _create_associated_token_account(token):
     # Create Associated token account for token to swap if not available  
-    token_associated_account = get_associated_token_address(
+    token_associated_account = get_associated_token_address( 
         WALLET.public_key, 
         PublicKey(token)
     )
