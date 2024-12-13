@@ -1,7 +1,7 @@
 from colorama import init
 from getwallet import get_wallet_from_private_key_bs58
 from checkbalance import check_sol_balance
-from typing import Union, List, Optional, Dict 
+from typing import Union, List, Optional, Dict
 
 init(autoreset=True)
 
