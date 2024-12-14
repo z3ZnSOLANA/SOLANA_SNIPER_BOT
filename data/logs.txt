@@ -6,7 +6,7 @@ NoneType: None
 NoneType: None 
 02-Feb-24 12:40:46 PM|root|ERROR|An unhandled exception occurred: type object 'datetime.datetime' has no attribute 'da tetime'
 NoneType: None 
-02-Feb-24 12:44:00 PM|root|ERROR|An unhandled exception occurred:   
+02-Feb-24 12:44:00 PM|root|ERROR|An unhandled exception occurred:    
 NoneType: None
 02-Feb-24 12:44:00 PM|asyncio|ERROR|Task was destroyed but it is pending!
 task: <Task cancelling name='Task-1' coro=<main() done, defined at /Users/nano_01/Documents/Python/solana-sniper/main.py:146> wait_for=<Future pending cb=[shield.<locals>._outer_done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:908, Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at /opt/homebrew/Cellar/python@3.11/3.11.7_1/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py:764]>
